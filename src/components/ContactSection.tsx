@@ -74,7 +74,7 @@ const ContactSection = () => {
     {
       icon: <FaPhone className="w-6 h-6" />,
       title: "Teléfono",
-      value: "976 687 566",
+      value: "976 786 987",
       link: "https://wa.me/51976786987/"
     },
     {
